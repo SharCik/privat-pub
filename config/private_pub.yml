@@ -7,4 +7,4 @@
 production:
   server: "https://chat-zelenko.herokuapp.com/faye" 
   secret_token: "sharcik"
-  signature_expiration: 3600 # one day
+  signature_expiration: 86400 # one day
